@@ -1,0 +1,136 @@
+/*FONT E DIMENSIONI*/
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    line-height: 1.65;
+    font-size: 1.2rem;
+    color: #393d41
+}
+
+body {
+    width: 100%;
+    text-align: center;
+    margin: 0ch;
+}
+
+/*HEADER*/
+
+#logo {
+    width: 200px;
+    background-color: black;
+    padding-right: 100%;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#partiamo {
+    background-image: url(./images/banner.jpg);
+    background-color: rgba(red, green, blue, alpha);
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#partiamo h1 {
+    color: #25a2c3;
+    line-height: 1;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700; 
+}
+
+#partiamo p{
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.partiamo {
+    background-color: #f04c2f;
+    color: blanchedalmond;
+    border-color: #f04c2f;
+    font-family:"Montserrat", sans-serif;
+    font-weight: 700
+    bold;
+    padding: 20px;
+    border-radius: 10%;
+    width: 200px;
+}
+
+/*MAIN/*
+/*div "bianco1"*/
+
+#bianco1 {    
+    float: right;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+
+h3, h4 {
+    color: #25a2c3;
+    line-height: 1;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700; 
+}
+
+/*secondo div*/
+
+#pc {
+    padding-top: 5%;
+    border-radius: 100%;
+    text-align: center;
+    width: 300px;
+}
+/*div "orange"*/
+
+#orange {
+    background-color: #f04c2f;
+    color: white;
+    padding-top: 45px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+span {
+    font-size:smaller
+}
+
+/*riquadri - 
+h4 modificato in bianco1*/
+
+#foto {
+    border: #393d41 2px solid;
+    margin-bottom: 10px;
+}
+
+#foto1, #foto2, #foto3 {
+    width: 370px;
+    padding-top: 45px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#foto2, #foto3 {
+    padding-top: 0px;
+}
+
+#blu {
+    background-color:#25a2c3;
+    color: white;
+    padding-top: 45px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+#blu p, a {
+    color: white;
+    line-height: 1.5;
+}
+
+.copyright {
+    font-size: x-small;
+}
+
